@@ -60,6 +60,7 @@ BOARD_CHOICES = [
     "pimoroni_picosystem",
     "pimoroni_plasma2040",
     "pimoroni_plasma2350",
+    "pimoroni_plasma2350w",
     "pimoroni_servo2040",
     "pimoroni_tiny2040_2mb",
     "pimoroni_tiny2040",
